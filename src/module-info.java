@@ -1,0 +1,3 @@
+module LockedMeMain {
+	exports LockedMeMain;
+}
